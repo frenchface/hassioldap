@@ -3,8 +3,11 @@ Out of the box Home Assistant does not provide the ability to authenticate via A
 
 Requirements:
 3 Seperate nodes: 
+
 Home Assistant
+
 linux server (will do the authentication)
+
 Windows Active Directory
 
 
