@@ -7,4 +7,5 @@ Home Assistant
 linux server (will do the authentication)
 Windows Active Directory
 
+
 Currently work in progress
