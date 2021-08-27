@@ -1,10 +1,12 @@
 #varibles                                            ldapauth.sh                                                               
-domain="@french.int"
-user=$username$domain
+domain="@home.int"
 ldapip=10.50.0.2
 base="dc=home,dc=int"
 
+
 #do not modify below this line
+
+user=$username$domain
 if [ -z "$username" ]; then exit 1; fi
 if [ -z "$password" ]; then exit 1; fi
 #echo $user
